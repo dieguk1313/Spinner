@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c5541a5cd694198a42a63b5e650ffe0ae14630a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1cb4e56a6e93ee3d604bbb8b8c0c297bc2674ee7">
+        <dex dex="C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a4f893201bca13949bd6acf6b6f5806c36189435\classes.dex" />
+    </item>
+
+</items>

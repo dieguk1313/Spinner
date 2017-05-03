@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\75bc0c25ced08ac24d848c0d67df815320c41045\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\197449fe00d6f177a4454a283075aea6c03b4442\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\64ab25a6c5819b3e41f854feb2258542c3a68e57\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\5689b2d343e9d70f22fca5d269dc868adfd6823b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\40ae1efc7a5cbe8bb1654a00ef42be73973c8574\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\1c0858b9029c07da8cb392f66a421647a87bab6c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\9744100bf0e243f65e6176b0596e9064a769a90e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\a66fe1fe203bdd9a5c9636c1369201f7de2a076d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\530807a2782417cb6fd513a706656edb5eb2a117\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aulas AMiGAS\.android\build-cache\b6c5db3d0b8b3904b781307a627176353d612057\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.aulasamigas.spinner.MainActivity
+ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\75bc0c25ced08ac24d848c0d67df815320c41045\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\197449fe00d6f177a4454a283075aea6c03b4442\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\64ab25a6c5819b3e41f854feb2258542c3a68e57\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\5689b2d343e9d70f22fca5d269dc868adfd6823b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\40ae1efc7a5cbe8bb1654a00ef42be73973c8574\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\1c0858b9029c07da8cb392f66a421647a87bab6c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\9744100bf0e243f65e6176b0596e9064a769a90e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\a66fe1fe203bdd9a5c9636c1369201f7de2a076d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\530807a2782417cb6fd513a706656edb5eb2a117\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Aulas AMiGAS\.android\build-cache\b6c5db3d0b8b3904b781307a627176353d612057\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\75bc0c25ced08ac24d848c0d67df815320c41045\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aulas AMiGAS\AndroidStudioProjects\Spinner\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\75bc0c25ced08ac24d848c0d67df815320c41045\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\197449fe00d6f177a4454a283075aea6c03b4442\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\64ab25a6c5819b3e41f854feb2258542c3a68e57\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\5689b2d343e9d70f22fca5d269dc868adfd6823b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\40ae1efc7a5cbe8bb1654a00ef42be73973c8574\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\1c0858b9029c07da8cb392f66a421647a87bab6c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\9744100bf0e243f65e6176b0596e9064a769a90e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\a66fe1fe203bdd9a5c9636c1369201f7de2a076d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\530807a2782417cb6fd513a706656edb5eb2a117\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\75bc0c25ced08ac24d848c0d67df815320c41045\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Aulas AMiGAS\.android\build-cache\75bc0c25ced08ac24d848c0d67df815320c41045\output\AndroidManifest.xml:26:9-47
